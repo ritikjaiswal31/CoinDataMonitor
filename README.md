@@ -2,7 +2,7 @@
 
 ## 🪙 Coin Data Monitor
 
-> A visually stunning and feature-rich Digital Coin Data Monitor built with **React**, **Material UI**, and **CoinGecko API**. CoinDataMonitor offers real-time coin data, powerful comparisons, elegant UI animations, and a fully modular architecture.
+#### A visually stunning and feature-rich Digital Coin Data Monitor built with **React**, **Material UI**, and **CoinGecko API**. CoinDataMonitor offers real-time coin data, powerful comparisons, elegant UI animations, and a fully modular architecture.
 
 ---
 
@@ -148,37 +148,7 @@ Generate an optimized production build: npm run build
 
 ---
 
-## 📂 Folder Structure
-
-CoinDataMonitor/
-├── public/
-│   ├── favicon.ico
-│   └── index.html
-│
-├── src/
-│   ├── assets/                    # Fonts, images, icons, etc.
-│   ├── components/                # Reusable components grouped by feature
-│   │   ├── Coin/                  # Coin page components (charts, info blocks)
-│   │   ├── Common/                # Header, Footer, Loader, ThemeToggle, etc.
-│   │   ├── Dashboard/             # Dashboard components (Cards, Lists, Tabs)
-│   │   └── Compare/               # Components for Compare page (DualChart, Selects)
-│   │
-│   ├── pages/                     # Page-level components (mapped to routes)
-│   │   ├── Home.js                # Landing page
-│   │   ├── Dashboard.js
-│   │   ├── Coin.js
-│   │   ├── Compare.js
-│   │   └── Watchlist.js
-│   │
-│   ├── functions/                 # Utility functions (formatting, API helpers, etc.)
-│   ├── theme.js                   # Theme switch logic (Light/Dark mode)
-│   ├── App.js                     # Root app component with routing
-│   ├── index.js                   # React DOM entry point
-│   └── styles.css                 # Global styles
-│
-├── .gitignore
-├── package.json
-└── README.md
+🛠️ Local Development Setup
 
 1. Clone the Repository
 git clone https://github.com/ritikjaiswal31/CoinDataMonitor.git
