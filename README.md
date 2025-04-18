@@ -2,13 +2,13 @@
 
 ## 🪙 Coin Data Monitor
 
-### A visually stunning and feature-rich Digital Coin Data Monitor built with **React (React.js & Chart.js)**, **Material UI**, and **CoinGecko API**. Coin Data Monitor offers real-time coin data, powerful comparisons, elegant UI animations, and a fully modular architecture.
+#### A visually stunning and feature-rich Digital Coin Data Monitor built with **React (React.js & Chart.js)**, **Material UI**, and **CoinGecko API**. Coin Data Monitor offers real-time coin data, powerful comparisons, elegant UI animations, and a fully modular architecture.
 
 ---
 
 ## 📖 Project Overview
 
-**CoinDataMonitor** is a full-featured, responsive web application designed to provide:
+**Coin Data Monitor** is a full-featured, responsive web application designed to provide:
 
 - 💹 Real-time digital coins data
 - 🔍 Search, filter, and compare coins
