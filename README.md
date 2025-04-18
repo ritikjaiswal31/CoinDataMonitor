@@ -144,7 +144,6 @@ Generate an optimized production build: npm run build
 - **Frontend:** React.js, Chart.js, Material UI, Framer Motion
 - **API:** [CoinGecko Public API](https://www.coingecko.com/en/api)
 - **State Management:** React Hooks (`useState`, `useEffect`, `useParams`)
-- **Deployment:** Netlify
 
 ---
 
