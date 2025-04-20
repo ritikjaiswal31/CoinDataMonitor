@@ -8,7 +8,7 @@
 
 ## 📖 Project Overview
 
-**Coin Data Monitor** is a full-featured, responsive web application designed to provide:
+**Coin Data Monitor** is a full-featured and responsive web application designed to provide:
 
 - 💹 Real-time digital coins data
 - 🔍 Search, filter, and compare coins
