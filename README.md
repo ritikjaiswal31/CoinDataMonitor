@@ -35,11 +35,7 @@
 
 ![Screenshot (12)](https://github.com/user-attachments/assets/a58e5905-5820-4669-b554-6f402a1250e9)
 
-![Screenshot (13)](https://github.com/user-attachments/assets/0f23687d-2464-45f1-b0c1-dcce32f741b3)
-
 ![Screenshot (15)](https://github.com/user-attachments/assets/6280f04c-bdd9-4bc5-87d5-41ac3663fb42)
-
-![Screenshot (16)](https://github.com/user-attachments/assets/a294e725-c5de-4344-a007-b77b2bd3abfc)
 
 ☁️ Deploying to AWS S3
 Follow these steps to deploy the CoinDataMonitor project on AWS S3:
