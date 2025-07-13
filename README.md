@@ -25,11 +25,7 @@
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/13381cf9-7c62-4fda-b0d8-5f462161b06c)
 
-![Screenshot (5)](https://github.com/user-attachments/assets/902e3843-c21a-437b-ba09-2200d765399d)
-
 ![Screenshot (6)](https://github.com/user-attachments/assets/41dfc3e9-bded-4055-9c23-af9ae6fb94aa)
-
-![Screenshot (7)](https://github.com/user-attachments/assets/1498bd61-5c7d-4af6-b7f5-09fc51f0e266)
 
 ![Screenshot (8)](https://github.com/user-attachments/assets/c69a2c55-4697-4b21-951c-111137a8e824)
 
