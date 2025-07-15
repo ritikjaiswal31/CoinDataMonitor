@@ -4,7 +4,7 @@
 
 ---
 
-### ✨ Project Features & Implementation 
+### ✨ Project Implementation 
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/29e120fa-91c7-4e55-967b-351a78a86fd2)
 
