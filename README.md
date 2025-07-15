@@ -1,4 +1,4 @@
-## 🪙 Coin Data Monitor (Digital Coin Analytics Console)
+## Coin Data Monitor (Digital Coin Analytics Console) 🪙
 
 #### A feature-rich and visually polished digital asset data tracker built with React.js, Material UI, Chart.js, and the CoinGecko API. It offers real-time coin data, comparisons, and interactive charts. 🐳 Containerized using Docker and served via Nginx for production readiness. ☁️ Deployed using AWS S3 & CloudFront for global performance and secure delivery.
 
