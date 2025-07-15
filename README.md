@@ -2,7 +2,7 @@
 
 ## 🪙 Coin Data Monitor - Digital Coin Analytics Console
 
-#### A visually stunning and feature-rich Digital Coin Data Monitor built with **React (React.js & Chart.js)**, **Material UI**, and **CoinGecko API**. Coin Data Monitor offers real-time coin data, powerful comparisons, elegant UI animations, and a fully modular architecture.
+#### A feature-rich and visually polished cryptocurrency data tracker built with React.js, Material UI, Chart.js, and the CoinGecko API. It offers real-time coin data, comparisons, interactive charts. ✅ Deployed using AWS S3 & CloudFront for global performance and secure delivery.
 
 ---
 
@@ -25,12 +25,6 @@
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/13381cf9-7c62-4fda-b0d8-5f462161b06c)
 
-![Screenshot (5)](https://github.com/user-attachments/assets/902e3843-c21a-437b-ba09-2200d765399d)
-
-![Screenshot (6)](https://github.com/user-attachments/assets/41dfc3e9-bded-4055-9c23-af9ae6fb94aa)
-
-![Screenshot (7)](https://github.com/user-attachments/assets/1498bd61-5c7d-4af6-b7f5-09fc51f0e266)
-
 ![Screenshot (8)](https://github.com/user-attachments/assets/c69a2c55-4697-4b21-951c-111137a8e824)
 
 ![Screenshot (9)](https://github.com/user-attachments/assets/aa2313a6-8698-42c4-8f18-b6c3073f21ac)
@@ -39,125 +33,53 @@
 
 ![Screenshot (12)](https://github.com/user-attachments/assets/a58e5905-5820-4669-b554-6f402a1250e9)
 
-![Screenshot (13)](https://github.com/user-attachments/assets/0f23687d-2464-45f1-b0c1-dcce32f741b3)
-
-![Screenshot (14)](https://github.com/user-attachments/assets/c987710e-285a-460e-8da0-e721ca4746b8)
-
 ![Screenshot (15)](https://github.com/user-attachments/assets/6280f04c-bdd9-4bc5-87d5-41ac3663fb42)
 
-![Screenshot (16)](https://github.com/user-attachments/assets/a294e725-c5de-4344-a007-b77b2bd3abfc)
-
-☁️ Deploying to AWS S3
-Follow these steps to deploy the CoinDataMonitor project on AWS S3:
+☁️ Deploying to AWS S3 + CloudFront
 
 Generate an optimized production build: npm run build
 
-![Screenshot 2025-04-18 190140](https://github.com/user-attachments/assets/787de26f-04ff-41a6-a363-4d1a9372536c)
+<img width="617" height="650" alt="image" src="https://github.com/user-attachments/assets/1b338093-87cd-441b-a618-d96b251da305" />
 
-![Screenshot 2025-04-18 190214](https://github.com/user-attachments/assets/fb10f078-4105-46af-9181-bd16c3624b5d)
+<img width="1513" height="695" alt="image" src="https://github.com/user-attachments/assets/b1b03156-27d2-4aa0-91e4-033154e32344" />
 
-![Screenshot 2025-04-18 190234](https://github.com/user-attachments/assets/e85f095a-afc7-4a77-aeea-d7dae91675f9)
+<img width="1514" height="693" alt="image" src="https://github.com/user-attachments/assets/8638c19c-592b-46c3-8a9e-d70f02799722" />
 
-![Screenshot 2025-04-18 190250](https://github.com/user-attachments/assets/5659a64b-dfbc-401a-b937-5a4e12df7199)
+<img width="1507" height="650" alt="image" src="https://github.com/user-attachments/assets/cd0d4df8-4f7d-488b-b6bb-83ee39266989" />
 
-![Screenshot 2025-04-18 190307](https://github.com/user-attachments/assets/1df0458b-f3a7-4def-89d3-2b5ad16f4572)
+<img width="1377" height="391" alt="image" src="https://github.com/user-attachments/assets/f9176042-4268-4473-94e4-842ff4c98536" />
 
-### 🛠 Initial Setup
+<img width="1450" height="370" alt="image" src="https://github.com/user-attachments/assets/4fa8ec8b-4f93-4914-a8e0-6a6bca55bcfd" />
 
-- ✅ **Root CSS Variables** and **Google Fonts**
-- ✅ **Custom Scrollbar** and **Text Selection Styling**
-- ✅ Image dragging disabled for UX polish
-- ✅ Clean folder structure & modular component organization
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/110886b8-36c8-4cf5-87f1-b1222dc85faf" />
 
----
+<img width="1503" height="694" alt="image" src="https://github.com/user-attachments/assets/96f41092-3eb3-456d-adc9-8e08a8dedc7e" />
 
-### 🖥 Landing Page
+<img width="1518" height="303" alt="image" src="https://github.com/user-attachments/assets/9ddbb365-6e0d-4d50-ae0e-e9931c7dbe55" />
 
-- 🧭 **Header**: Implemented with MUI `Drawer`
-- ✨ **Text Stroke Hover Animation**
-- 🎬 **Framer Motion**: Smooth animations for phone mockup and intro text
+<img width="1515" height="697" alt="image" src="https://github.com/user-attachments/assets/b878face-16da-4e28-a2be-706f5dc0f8c8" />
 
----
 
-### 📊 Dashboard Page
+## 🧱 Tech Stack
 
-- 📁 **MUI Tabs**: Custom-themed for section switching
-- 🔁 **CoinGecko API Integration** using `axios`
-- 💰 `toLocaleString()` for comma formatting & `toFixed(2)` for decimal precision
-- 🔢 Custom function to convert numbers to `K`, `M`, and `B`
-- 🔍 **Search functionality** using `.filter()`
-- 🕒 Animation delay added to `Grid` and `List` components
-- 🔄 **Pagination** via MUI, slicing data per page number
-- ⬆️ Scroll-to-top function for smoother navigation
+- **Frontend**: React.js, Material UI, Chart.js  
+- **API**: CoinGecko API
+- **Hosting**: AWS S3 + CloudFront CDN  
 
 ---
 
-### 🪙 Coin Page (Detailed View)
+## 📂 Pages
 
-- 🆔 Used `useParams` from React Router to fetch dynamic `coinId`
-- 🔗 Coin-specific data and price history for selected days
-- 📈 **Chart.js** (via `react-chartjs-2`) for dynamic graphs
-- 🗓 Custom function to generate date arrays for selected days
-- 🧩 **MUI Select** for day range selection
-- 🔘 Toggle buttons to switch between price, market cap, and volume
-- 📜 `dangerouslySetInnerHTML` used to render HTML descriptions
-- ⏳ Reusable **Loading Component** to handle async states
-- 🎨 Custom-styled MUI components + "Read More / Read Less" logic
+- **Landing**: Animated intro with responsive MUI Drawer  
+- **Dashboard**: Coin listings with tabs, pagination, and scroll-to-top  
+- **Coin Page**: Detailed coin view with dynamic charts and toggleable stats  
+- **Compare**: Dual chart view with coin selector  
+- **Watchlist**: Add and remove favorite coins (stored in `localStorage`)  
 
 ---
 
-### ⚖️ Compare Page
+## 📦 Setup
 
-- 📊 Dual charts with **2 Y-axes** and **2 datasets**
-- 📌 Select 2 coins using MUI Select (100+ options)
-- 🚫 Prevent selection of same coin in both dropdowns
-
----
-
-### 🌗 Light & Dark Mode
-
-- 🌈 Handled using `data-theme` attribute + `localStorage`
-- 🪄 Dynamically update root CSS variables on theme switch
-
----
-
-### ⭐ Watchlist Page
-
-- 📥 Add and remove coins via `localStorage`
-- ♻️ `useEffect()` to persist and update watchlist state
-
----
-
-### 🧩 Other Cool Features
-
-- 📤 Native sharing with `RWebShare` package
-- 🖱️ **Custom Mouse Cursor** using dual divs that follow with delay
-- 🎨 MUI Icons and styling utilities
-- ⚙️ SEO Optimization + Code Modularity
-- 🧶 **Gradient Footer** with animated background
-- 🛎 **React Toastify** used for notifications and user feedback
-
----
-
-## 🧑‍💻 Tech Stack
-
-- **Frontend:** React.js, Chart.js, Material UI, Framer Motion
-- **API:** [CoinGecko Public API](https://www.coingecko.com/en/api)
-- **State Management:** React Hooks (`useState`, `useEffect`, `useParams`)
-
----
-
-🛠️ Local Development Setup
-
-1. Clone the Repository
-git clone https://github.com/ritikjaiswal31/CoinDataMonitor.git
-cd CoinDataMonitor
-
-2. Install Dependencies
+```bash
 npm install
-
-4. Run the Application
 npm start
-
-Then open your browser and navigate to:
-http://localhost:3000
