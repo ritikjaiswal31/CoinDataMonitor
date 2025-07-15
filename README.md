@@ -1,8 +1,6 @@
-# Coin Data Monitor
+# 🪙 Coin Data Monitor (Digital Coin Analytics Console)
 
-## 🪙 Coin Data Monitor - Digital Coin Analytics Console
-
-#### A feature-rich and visually polished digital asset data tracker built with React.js, Material UI, Chart.js, and the CoinGecko API. It offers real-time coin data, comparisons, and interactive charts. 🐳 Containerized using Docker and served via Nginx for production readiness. ☁️ Deployed using AWS S3 & CloudFront for global performance and secure delivery.
+### A feature-rich and visually polished digital asset data tracker built with React.js, Material UI, Chart.js, and the CoinGecko API. It offers real-time coin data, comparisons, and interactive charts. 🐳 Containerized using Docker and served via Nginx for production readiness. ☁️ Deployed using AWS S3 & CloudFront for global performance and secure delivery.
 ---
 
 ## ✨ Project Features & Implementation 
@@ -20,6 +18,8 @@
 ![Screenshot (12)](https://github.com/user-attachments/assets/a58e5905-5820-4669-b554-6f402a1250e9)
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/6280f04c-bdd9-4bc5-87d5-41ac3663fb42)
+
+---
 
 ## 🐳 Dockerized Version (Docker + Nginx Setup)
 
@@ -44,6 +44,8 @@
 <img width="1534" height="918" alt="Screenshot 2025-07-15 232946" src="https://github.com/user-attachments/assets/e2b65fbc-e75f-4041-8cac-8e25d31221c3" />
 
 <img width="1549" height="891" alt="Screenshot 2025-07-15 233006" src="https://github.com/user-attachments/assets/f36832aa-aa19-4c2f-b9f0-55cf938e46a1" />
+
+---
 
 ## ☁️ AWS Deployment (S3 + CloudFront)
 
