@@ -1,10 +1,10 @@
-# 🪙 Coin Data Monitor (Digital Coin Analytics Console)
+## 🪙 Coin Data Monitor (Digital Coin Analytics Console)
 
 #### A feature-rich and visually polished digital asset data tracker built with React.js, Material UI, Chart.js, and the CoinGecko API. It offers real-time coin data, comparisons, and interactive charts. 🐳 Containerized using Docker and served via Nginx for production readiness. ☁️ Deployed using AWS S3 & CloudFront for global performance and secure delivery.
 
 ---
 
-## ✨ Project Features & Implementation 
+### ✨ Project Features & Implementation 
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/29e120fa-91c7-4e55-967b-351a78a86fd2)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🐳 Dockerized Version (Docker + Nginx Setup)
+### 🐳 Dockerized Version (Docker + Nginx Setup)
 
 <img width="819" height="518" alt="Screenshot 2025-07-15 231448" src="https://github.com/user-attachments/assets/069e9d5d-b3a4-47b7-98a7-1ab41ef501f5" />
 
@@ -48,7 +48,7 @@
 
 ---
 
-## ☁️ AWS Deployment (S3 + CloudFront)
+### ☁️ AWS Deployment (S3 + CloudFront)
 
 <img width="617" height="650" alt="image" src="https://github.com/user-attachments/assets/1b338093-87cd-441b-a618-d96b251da305" />
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 🧱 Tech Stack
+### 🧱 Tech Stack
 
 - **Frontend**: React.js, Material UI, Chart.js  
 - **API**: CoinGecko API  
@@ -82,7 +82,7 @@
 
 ---
 
-## 📂 Pages
+### 📂 Pages
 
 - **Landing**: Animated intro with responsive MUI Drawer  
 - **Dashboard**: Coin listings with tabs, pagination, and scroll-to-top  
@@ -92,7 +92,7 @@
 
 ---
 
-## 📦 Setup
+### 📦 Setup
 
 ```bash
 npm install
